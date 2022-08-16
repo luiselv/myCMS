@@ -1,0 +1,42 @@
+html {height: 100%;overflow:hidden;}
+body { background: #333 url(../../_img/admin/bgx.jpg) center -240px ; font: 12px/1.7em arial, sans-serif; margin:0px;height:100%; }
+#login { width: 380px; position: absolute; left: 50%; margin-left:-190px;top:150px; }
+#login h1{width: 300px;overflow: hidden;margin: 0 auto 10px;text-align:center;font-family: 'DINProBold',arial;color:#333;font-size:30px;letter-spacing:-2px;}
+#login h1 span{color:#FC0;}
+#login_panel{
+	background: #FFF;
+	width: 380px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	padding-top: 15px;
+	-moz-box-shadow: 1px 1px 1px rgba(0,0,0,0);
+	-webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0);
+	box-shadow: 1px 1px 1px rgba(0,0,0,0);
+}
+.corners{-moz-border-radius: 8px;-webkit-border-radius: 8px;border-radius: 8px;}
+.form-actions{border-bottom-left-radius:8px;-moz-border-radius-bottomleft:8px;-webkit-border-radius-bottomleft:8px;border-bottom-right-radius:8px;-moz-border-radius-bottomright:8px;	-webkit-border-radius-bottomright:8px;margin-bottom:8px;}
+form{margin-bottom:0px;}
+.version{color:#999;font-size:10px;cursor:pointer;}
+.space{margin-right:10px;margin-left:10px;color:#999;font-size:10px;}
+.version:hover{text-decoration:none;color:#111;}
+/* FFED00 */
+.tooltip-inner{background-color:#0074CC;color:#fff;border:2px solid #0074CC;font-weight:700;}
+.tooltip-arrow{border-top:5px solid #0074CC;}
+.jquery-msgbox-wrapper {padding: 10px 20px 20px 100px;}
+.jquery-msgbox-buttons {right: 18px;}
+.jquery-msgbox-prompt form p {font-weight: normal;line-height:15px;color:#999;}
+input.span4 {width: 330px;}
+.control-group{margin-left:20px;}
+.alert-message{margin-bottom:10px;}
+#content{
+	margin:0px auto;
+	height:100%;
+	width:100%;
+	top:0px;
+	background-image:url(../../_img/admin/bgs/malla.png);
+	background-repeat:repeat-x repeat-y;
+	position:absolute;
+}
+body{text-align:center;}
+body #login{text-align:left;}

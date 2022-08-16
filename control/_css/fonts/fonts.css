@@ -1,0 +1,33 @@
+/* CSS Document */
+@font-face {
+    font-family: 'DINProRegular';
+    src: url('din/DINPro-Regular.eot');
+    src: url('din/DINPro-Regular.eot?#iefix') format('embedded-opentype'),
+         url('din/DINPro-Regular.woff') format('woff'),
+         url('din/DINPro-Regular.ttf') format('truetype'),
+         url('din/DINPro-Regular.svg#DINProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'DINProBold';
+    src: url('din/dinpro-bold-webfont.eot');
+    src: url('din/dinpro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('din/dinpro-bold-webfont.woff') format('woff'),
+         url('din/dinpro-bold-webfont.ttf') format('truetype'),
+         url('din/dinpro-bold-webfont.svg#DINProBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'EntypoRegular';
+    src: url('entpo/02webfont.eot');
+    src: url('entpo/02webfont.eot?#iefix') format('embedded-opentype'),
+         url('entpo/03webfont.woff') format('woff'),
+         url('entpo/01webfont.ttf') format('truetype'),
+         url('entpo/04webfont.svg#EntypoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

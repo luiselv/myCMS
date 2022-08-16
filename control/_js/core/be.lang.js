@@ -1,0 +1,22 @@
+//lbn-lang-en.js v2.0 - Copyright 2012
+var LBN_BUTTON_SUBMIT = 'Done';
+var LBN_BUTTON_CANCEL = 'Cancel';
+var LBN_TABLE_SEARCH = 'Search';
+var LBN_TABLE_EXPORT = 'Export';
+var LBN_TABLE_REMOVE = 'Delete this item(s)?';
+var LBN_SORT_MESSAGE = 'Modified!!';
+var LBN_DELETE_MESSAGE = 'Deleted!!';
+var LBN_STATUS_MESSAGE = 'Status Updated!!';
+var LBN_SELECT_MESSAGE = 'Select Item.!';
+var LBN_ONE_ACTION_MESSAGE = 'Delete this item ?';
+var LBN_ACTION_MESSAGE = ' <b> _COUNT_ </b> item(s) ?';
+var LBN_LOADING = 'Processing..';
+var LBN_FILE_SELECT = ' files were selected for upload.';
+var LBN_FILE_UPLOADED = ' files uploaded successfully!';
+var LBN_FORM_CREATE_MESSAGE = 'Created!!';
+var LBN_NOTIFY_TITLE = 'Notification:';
+var LBN_PAGE_HEADER_COUNT = 'items';
+var LBN_GUIDE_NEXT = 'Next';
+var LBN_GUIDE_START = 'Start Guide';
+var LBN_GUIDE_THANK = 'No Thanks';
+var CKFINDER_BASEPATH = '_include/plugins/ckfinder/'

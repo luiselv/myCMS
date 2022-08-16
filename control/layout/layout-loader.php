@@ -1,0 +1,1 @@
+  <div id="loading-holder" ><img src="<?php p(BE_IMG_PATH);?>ajax-loader.gif" alt="" /></div>

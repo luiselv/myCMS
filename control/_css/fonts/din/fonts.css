@@ -1,0 +1,33 @@
+/* CSS Document */
+
+@font-face {
+    font-family: 'SerifaBTBold';
+    src: url('serifa_bt_bold-webfont.eot');
+    src: url('serifa_bt_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('serifa_bt_bold-webfont.woff') format('woff'),
+         url('serifa_bt_bold-webfont.ttf') format('truetype'),
+         url('serifa_bt_bold-webfont.svg#SerifaBTBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DINProRegular';
+    src: url('DINPro-Regular.eot');
+    src: url('DINPro-Regular.eot?#iefix') format('embedded-opentype'),
+         url('DINPro-Regular.woff') format('woff'),
+         url('DINPro-Regular.ttf') format('truetype'),
+         url('DINPro-Regular.svg#DINProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'DINProBold';
+    src: url('dinpro-bold-webfont.eot');
+    src: url('dinpro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('dinpro-bold-webfont.woff') format('woff'),
+         url('dinpro-bold-webfont.ttf') format('truetype'),
+         url('dinpro-bold-webfont.svg#DINProBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

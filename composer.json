@@ -1,0 +1,14 @@
+{
+  "description": "MyCMS",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Luis Evangelista",
+      "email": "luiselv@outlook.com"
+    }
+  ],
+  "require-dev": {
+    "rector/rector": "^0.13.10"
+  }
+}
